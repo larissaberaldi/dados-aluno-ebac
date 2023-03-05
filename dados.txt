@@ -3,9 +3,12 @@ Dados do aluno
 -Primeiro Nome: Larissa
 -Profissão: Enfermeira (não estou atuando)
 -Cidade: Londrina/PR
--O que faz nas horas vaga: 
--Feedback sobre o curso Qualidade de Software: 
--Feedback sobre a plataforma de estudo da EBAC: 
+-O que faz nas horas vaga: Aulas de guitarra, séries e livros e tenho coleção de suculentas
+-Feedback sobre o curso Qualidade de Software: Curso bastante prático, fácil de acompanhar as aulas, 
+consigo aprender bastante. Por enquanto, o único ponto foi a aula inicial de Cypress, acredito que seria
+importante uma nova aula com a versão atual do programa pois ficaria mais fácil de acompanhar 
+para quem ainda não tem tanta afinidade com tecnologias
+-Feedback sobre a plataforma de estudo da EBAC: Bastante intuitiva, navegação descomplicada
 
 Obrigado!!!
 
